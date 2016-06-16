@@ -1,0 +1,288 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(img01.gif) repeat-x left top;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #333333;
+}
+
+#header {
+    width: 860px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+#menu {
+    width: 860px;
+    margin: 0;
+    padding: 0;
+}
+
+#menu ul {
+    float: right;
+    display: block;
+    margin: 0;
+    padding: 0px 0 0 0px;
+    list-style: none;
+    line-height: normal;
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu .item a {
+    color: #FFFFFF;
+}
+#menu a {
+    margin-right: 3px;
+    padding: 10px 15px 10px 10px;
+    letter-spacing: -.5px;
+    text-decoration: none;
+    text-transform: lowercase;
+    font: 16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+}
+
+#menu .numero {
+    font-size: 28px;
+    color: #C4F28D;
+}
+#menu span {
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    clear: both;
+    width: 860px;
+    height: 80px;
+    margin: 0 auto;
+    background: url(img02.gif) no-repeat left top;
+}
+
+#logo h1 {
+    margin: 0;
+    padding: 0 0 0 75px;
+    line-height: normal;
+}
+
+#logo h1 a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#logo h2 {
+    padding: 0 0 0 75px;
+    font: italic 13px Georgia, "Times New Roman", Times, serif;
+    color: #66B209;
+    margin: 0;
+}
+
+#pagina {
+    width: 850px;
+    margin: 0 auto;
+}
+
+#conteudo{
+    float: right;
+    width: 600px;
+}
+
+.post {
+    padding: 15px 15px;
+}
+
+
+p,ul, ol {
+    margin: 0 0 2em 0;
+    text-align: justify;
+    line-height: 26px;
+    font-size: 11px;
+}
+
+img.left {
+    float: left;
+    margin-right: 15px;
+}
+img {
+    border: 1px dashed #86E714;
+    padding: 2px;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    text-transform: lowercase;
+    font-weight: normal;
+    color: #7D7D7D;
+}
+
+.post .title {
+    margin-bottom: 20px;
+    border-bottom: 1px dotted #D1D1D1;
+    background: url(img04.jpg) repeat-x left bottom;
+}
+h1 {
+    letter-spacing: -1px;
+    font-size: 32px;
+}
+
+.post .meta {
+    height: 70px;
+    padding: 40px 15px 0px 15px;
+    background: url(img03.jpg) repeat-x left top;
+}
+
+.post .meta .postado {
+    float: left;
+}
+.post .meta p {
+    margin: 0;
+    line-height: normal;
+    color: #999999;
+}
+
+.post .meta .links {
+    float: right;
+}
+.post .meta p {
+    margin: 0;
+    line-height: normal;
+    color: #999999;
+}
+
+
+.post .meta .articulo {
+    padding: 0 20px 0 18px;
+    background: url(img09.gif) no-repeat left 50%;
+}
+
+
+.post .meta b {
+    display: none;
+}
+
+
+.post .meta .comments {
+    padding-left: 22px;
+    background: url(img08.gif) no-repeat left 50%;
+}
+
+
+
+#lateral {
+    float: left;
+    width: 215px;
+}
+
+#lateral ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+#lateral li ul {
+    background: url(img03.jpg) repeat-x left bottom;
+    padding-bottom: 20px;
+}
+
+#search {
+    background: url(img03.jpg) repeat-x left bottom;
+    margin-bottom: 40px;
+}
+
+
+#search h2 {
+    margin-bottom: 20px;
+}
+
+#lateral h2 {
+    padding-top: 20px;
+    background: url(img04.jpg) repeat-x left bottom;
+    border-bottom: 1px dotted #D1D1D1;
+    font-size: 18px;
+}
+
+fieldset {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+#j {
+    width: 115px;
+    margin-right: 5px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    padding: 3px 0px 3px 15px;
+    border: 1px solid #F0F0F0;
+}
+
+#k {
+    margin-bottom: 20px;
+    padding: 3px 3px 3px 3px;
+    background: #ECECEC;
+    border: none;
+    text-transform: lowercase;
+    font-size: 11px;
+    color: #4F4F4F;
+}
+
+a:visited {
+    color: #6DBD0B;
+}
+
+a:link {
+    color: #6DBD0B;
+}
+
+#footer {
+    margin: 0 auto;
+    height: 52px;
+    min-height: 52px;
+    padding: 0;
+    background: #A0A0A3 url(img05.gif) repeat-x left bottom;
+}
+
+#dentro {
+    width: 860px;
+    height: 52px;
+    margin: 0 auto;
+}
+
+#design {
+    clear: both;
+    padding-top: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+#design a{
+color:white;
+}
+
+input, textarea, select {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #333333;
+}
+
+
+h2 {
+    font-size: 23px;
+}
+
+a{
+	color: #FFFFFF;
+}
+
+#lateral>ul>li:nth-child(2){
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
