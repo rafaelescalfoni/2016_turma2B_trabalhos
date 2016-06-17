@@ -1,0 +1,229 @@
+.container{
+    max-width: 900;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    margin: 0px;
+    margin-top:-20px;
+}
+/**************************************************HEADER***************************************************/
+header{
+    height:130px;
+    width:900px;
+}
+header div h1,h5{
+    margin-left: 30px;
+}
+header div h5{
+    margin-top:-45px;
+}
+#linksCantoSuperior{
+    width:900px;
+    margin-top:-80px;
+    margin-left: -20px;
+}
+#linksInferiorHeader{
+    width:900px;
+    margin-top:60px;
+}
+header div ul li{
+    display:inline;
+    margin-right:20px;
+}
+/************************************************************************************************************/
+/***********************************************MAIN*********************************************************/
+main{
+    height:1800px;
+    width:894px;
+}
+aside{
+    float:right;
+    width:197px;
+    height:1800px;
+    margin-top:-10px;
+}
+article{
+    float:left;
+    width:697px;
+    height:1800px;
+    margin-top:-10px;
+    
+}
+#comentario{
+    width:400px;
+    height:200px;
+}
+#aspas{
+    width:30px;
+    height:30px;
+    float:left;
+}
+#textoBlockquote{
+    width:620px;
+    float:left;
+}
+#imgFireFox{
+    width:100px;
+    height:121px;
+    float:left;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+#textoFireFox{
+    display: inline;
+    width:542px;
+    float: left;
+    margin-top:0px;
+    margin-left:3px;
+}
+.quadradoVerde{
+    width:16px;
+    height:16px;
+    float:left;
+}
+.tituloLadoQuadradoVerde1{
+    float:left;
+    width:600px;
+    margin-top:-6px;
+}
+.tituloLadoQuadradoVerde2{
+    float:left;
+    width:600px;
+    margin-top:-5px;
+}
+#read{
+    width:16px;
+    height:16px;
+    float:left;
+}
+#caixaTexto{
+    width:16px;
+    height:16px;
+    float:left;
+}
+#date{
+    width:16px;
+    height:16px;
+    float:left;
+}
+.primeira{
+    width:140px;
+    float:left;
+    margin-left:250px;
+}
+.primeira p{
+    float:left;
+    margin-top:-1px;
+    margin-left:1px;
+}
+.segunda{
+    width:145px;
+    float:left; 
+}
+.segunda p{
+    float:left;
+    margin-top:-1px;
+    margin-left:1px;
+}
+.terceira{
+    width:120px;
+    float:left;
+}
+.terceira p{
+    float:left;
+    margin-top:-1px;
+    margin-left:1px;
+}
+.redesSociais{
+    width:655px;
+    height: 20px;
+}
+
+.primeiroDivTexto{
+    margin-left:20px;
+    margin-right:20px;
+}
+.segundoDivTexto{
+    margin-left:20px;
+    margin-right:20px;
+}
+#tabela{
+    width:657px;
+}
+#caixaBusca{
+    width: 100px;   
+}
+.borderAside{
+    margin-left:10px;
+    margin-right: 10px;
+}
+aside ul li{
+    margin-left:-40px;
+}
+aside h5{
+    margin-left:0px;
+}
+#borda{
+    width:107px;
+    height:128px;
+    float:left;
+}
+aside ul li{
+    border-top:1px dotted black;
+}
+aside ul li:last-child{
+    border-bottom:1px dotted black;
+}
+#but p{
+    margin-top: -15px;
+}
+#but h5{
+    margin-top:-1px;
+}
+.coluna1{
+    width:100px;
+}
+.marcador:first-child{
+    color: black;
+    font-weight:bold;
+}
+.marcador{
+    color:cyan;
+}
+#borderCode{
+    height:80px;
+}
+#borderCode p{
+    margin-top: 0px;
+    margin-left: 10px;
+}
+#borderAspas{
+    height:60px;
+}
+#borderFormulario{
+    height:350px;
+}
+#borderFormulario form{
+    margin-left:20px;
+}
+/************************************************************************************************************/
+/***********************************************FOOTER*******************************************************/
+footer{
+    width:900px;
+    height:100px;
+    margin-top:-16px;
+}
+footer p:first-child{
+    width:600px;
+    margin-bottom: 50px;
+    float:left;
+}
+footer p:last-child{
+    width:200px;
+    float:right;
+    margin-right: 5px;
+}
+/************************************************************************************************************/

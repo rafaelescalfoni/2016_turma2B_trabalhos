@@ -1,0 +1,206 @@
+.container{
+    max-width: 480px;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    margin: 0px;
+}
+/**************************************************HEADER***************************************************/
+header{
+    height:150px;
+    width:480x;
+}
+header div h1,h5{
+
+}
+header div h5{
+
+}
+#linksCantoSuperior{
+    display:none;
+}
+#linksInferiorHeader{
+    margin-top:0px;
+    margin-left:-15px;
+    width:480px;
+}
+header div ul li{
+    display:inline;
+    margin-right:12px;
+}
+/************************************************************************************************************/
+/***********************************************MAIN*********************************************************/
+main{
+    height:1800px;
+    width:475px;
+}
+aside{
+    display:none;
+}
+article{
+    float:left;
+    width:475px;
+    height:1800px;
+    margin-top:0px;
+    
+}
+#comentario{
+    width:300px;
+    height:200px;
+}
+#aspas{
+    width:30px;
+    height:30px;
+    float:left;
+}
+#textoBlockquote{
+    width:400px;
+    float:left;
+}
+#imgFireFox{
+    width:100px;
+    height:121px;
+    float:left;
+}
+#textoFireFox{
+    display: inline;
+    width:300px;
+    float: left;
+    margin-top:0px;
+    margin-left:3px;
+}
+.quadradoVerde{
+    width:16px;
+    height:16px;
+    float:left;
+}
+.tituloLadoQuadradoVerde1{
+    float:left;
+    width:480px;
+    margin-top:-18px;
+    margin-left: 15px;
+}
+.tituloLadoQuadradoVerde2{
+    float:left;
+    width:450px;
+    margin-top:-18px;
+    margin-left:15px;
+}
+#read{
+    width:16px;
+    height:16px;
+    float:left;
+}
+#caixaTexto{
+    width:16px;
+    height:16px;
+    float:left;
+}
+#date{
+    width:16px;
+    height:16px;
+    float:left;
+}
+.primeira{
+    width:150px;
+    float:left;
+    margin-left:0px;
+}
+.primeira p{
+    float:left;
+    margin-top:-1px;
+    margin-left:1px;
+}
+.segunda{
+    width:145px;
+    float:left; 
+}
+.segunda p{
+    float:left;
+    margin-top:-1px;
+    margin-left:1px;
+}
+.terceira{
+    width:120px;
+    float:left;
+}
+.terceira p{
+    float:left;
+    margin-top:-1px;
+    margin-left:1px;
+}
+.redesSociais{
+    width:440px;
+}
+
+.primeiroDivTexto{
+    margin-left:20px;
+    margin-right:20px;
+}
+.segundoDivTexto{
+    margin-left:20px;
+    margin-right:20px;
+}
+#tabela{
+    width:435px;
+}
+#caixaBusca{
+    width: 100px;   
+}
+.borderAside{
+    margin-left:10px;
+    margin-right: 10px;
+}
+aside ul li{
+    margin-left:-40px;
+}
+aside h5{
+    margin-left:0px;
+}
+#borda{
+
+}
+aside ul li{
+    border-top:1px dotted black;
+}
+aside ul li:last-child{
+    border-bottom:1px dotted black;
+}
+#but p{
+    margin-top: -15px;
+}
+#but h5{
+    margin-top:-1px;
+}
+.coluna1{
+    width:70px;
+}
+.marcador:first-child{
+    color: black;
+    font-weight:bold;
+}
+.marcador{
+    color:cyan;
+}
+.alinharEsq,coluna2e3{
+    width:100px;
+}
+/************************************************************************************************************/
+/***********************************************FOOTER*******************************************************/
+footer{
+    width:480px;
+    height:100px;
+    margin-top:-16px;
+}
+footer p:first-child{
+    width:200px;
+    margin-bottom: 50px;
+    float:left;
+}
+footer p:last-child{
+    width:100px;
+    float:right;
+    margin-right: 5px;
+}
+/************************************************************************************************************/

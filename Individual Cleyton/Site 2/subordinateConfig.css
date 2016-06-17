@@ -1,0 +1,130 @@
+.container{
+    max-width:900px;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    margin:0px;
+}
+main{
+    width:900px;
+    height:700px;
+}
+
+#fundo{
+    width:243px;
+    height:52px;
+}
+.logo{
+    width: 900px;
+    height: 73px;
+    background-repeat:no-repeat;
+    margin-top:48px;
+}
+.logo h1,h5{
+    padding-left:80px;
+}
+.logo h5{
+    margin-top: -25px;
+}
+header div:last-child{
+    float:left;
+    margin-top:20px;
+    text-align: right;
+    width:900px;
+    position: absolute;
+    top:-40px;
+}
+header div ul li{
+    display:inline;
+    margin-right:6px;
+}
+footer{
+    height:52px;
+    width:100%;  
+}
+footer p{
+    width:900px;
+    padding-top: 10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+aside{
+    width:250px;
+    height:auto;
+    float:left;  
+}
+article{
+    width:620px;
+    height:auto;
+    float:right;
+    margin-left:30px;
+}
+aside h4{
+    width:250px;
+}
+.linhaMenor{
+    margin-top:-20px;
+    height:4px;
+}
+.linhaMaior{
+    height:70px;
+    margin-top:-20px;
+}
+#imgdireita1{
+    width:150px;
+    height:150px;
+}
+#bord{
+    width:150px;
+    height:150px;
+    float:left;
+    margin-right:20px;
+}
+#caixa{
+    width:150px;
+    height:15px;
+    margin-top:21px; 
+}
+.sobreSections{
+    width: 650px;
+}
+.sobreSection1{
+    float:left;
+    width:380px;
+}
+.sobreSection2{
+    float:left;
+    width:100px;
+}
+.sobreSection2 p{
+    width:80px;
+    float:right;
+}
+#imgRead{
+    width:13px;
+    height:13px;
+    float:left;
+    margin-top:20px;
+}
+.sobreSection3{
+    float:right;
+    width:120px;
+    height:40px;
+    margin-right:30px;
+}
+.sobreSection3 p{
+    float:right;
+    width:77px;
+}
+#imgComent{
+    margin-top: 21px;
+    width:13px;
+    height:13px;
+    float:left;
+    margin-left:23px;
+}
+.linhaMaior2{
+    height:60px;
+    margin-top:-60px;
+}

@@ -1,0 +1,34 @@
+body{
+    background-image: url("subordinate/images/img01.gif");
+    background-repeat:repeat-x;
+}
+footer{
+    background-image: url("subordinate/images/img05.gif");
+    background-repeat:repeat-x;
+}
+.logo{
+    background-image: url("subordinate/images/img02.gif");
+}
+.linhaMenor{
+    background-image: url("subordinate/images/img04.jpg");
+    background-repeat:repeat-x;
+}
+#imgdireita1{
+    background-image:url("subordinate/images/img07.jpg");
+    background-repeat:no-repeat;
+}
+.linhaMaior{
+    background-image: url("subordinate/images/img03.jpg");
+}
+#imgComent{
+    background-image:url("subordinate/images/img08.gif");
+}
+#imgRead{
+    background-image:url("subordinate/images/img09.gif");
+}
+#linhaMaior1{
+    background-image: url("subordinate/images/img03.jpg");
+}
+.linhaMaior2{
+    background-image: url("subordinate/images/img03.jpg");
+}

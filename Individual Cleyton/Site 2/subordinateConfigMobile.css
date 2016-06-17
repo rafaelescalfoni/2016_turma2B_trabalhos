@@ -1,0 +1,145 @@
+.container{
+    max-width:480px;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    margin:0px;
+}
+main{
+    width:480px;
+    height:700px;
+}
+
+.logo{
+    width: 480px;
+    height: 73px;
+    background-repeat:no-repeat;
+    margin-top:48px;
+}
+.logo h1,h5{
+    margin-top:0px;
+    float:left;
+}
+.logo h5{
+    width:300px;
+    margin-top: -25px;
+}
+header div:last-child{
+    float:right;
+    width:480px;;
+}
+header div ul li{
+    display:inline;
+}
+header ul{
+    margin-left:-30px;
+}
+footer{
+    height:100px;
+    width:480px;
+    float:left;
+}
+footer p{
+    width:480px;
+    padding-top: 10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+aside{
+    width:480px;
+    height:auto;  
+}
+article{
+    width:480px;
+    height:auto;
+}
+aside h4{
+    width:480px;
+}
+.linhaMenor{
+    margin-top:-20px;
+    height:20px;
+}
+.linhaMaior{
+    height:20px;
+    margin-top:-20px;
+    
+}
+#imgdireita1{
+    width:100px;
+    height:100px;
+}
+#bord{
+    width:100px;
+    height:100px;
+    float:left;
+    margin-right:10px;
+}
+#caixa{
+    width:130px;
+    height:15px;
+    margin-top:21px;
+    border:1px solid black;
+}
+.sobreSections{
+    width: 480px;
+}
+.sobreSection1{
+    float:left;
+    width:140px;
+}
+.sobreSection2{
+    float:left;
+    margin-left:60px;
+    width:110px;
+}
+.sobreSection2 p{
+    width:80px;
+    float:right;
+}
+#imgRead{
+    width:13px;
+    height:13px;
+    float:left;
+}
+.sobreSection3{
+    float:right;
+    width:120px;
+    height:40px;
+    
+}
+section h3{
+    width:480px;
+    float:left;
+}
+section p{
+    width:480px;
+}
+.sobreSection3 p{
+    float:right;
+    width:80px;
+}
+#imgComent{
+    margin-top: 21px;
+    width:13px;
+    height:13px;
+    float:left;
+}
+.linhaMaior2{
+    height:60px;
+    margin-top:0px;
+    margin-top:20px;
+}
+#alinhamento{
+    float:left;
+}
+footer .linhaMaior{
+    position: absolute;
+    top:2000px;
+    
+}
+aside div:first-child{
+    float:right;
+    margin-top:-160px;
+}

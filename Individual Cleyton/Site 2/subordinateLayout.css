@@ -1,0 +1,73 @@
+header div ul li spam{
+    color: chartreuse;
+    font-size: 30px;
+}
+header div ul li a{
+    text-decoration:none;
+    color:white;
+    font-weight: bold;
+}
+header div ul li a:link{
+    text-decoration:none;
+    color:white;
+}
+header div ul li a:hover{
+    text-decoration:none;
+    color:red;
+}
+footer p{
+    color:white;
+    text-align: center;
+}
+aside h4{
+    text-align:left;
+}
+#bord{
+    border: 2px solid green;
+    padding-top:3px;
+    padding-bottom:3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-style:dotted;
+}
+.textos{
+    text-align:justify;
+}
+header div h1{
+    color: white;
+}
+header div h5{
+    color: #0FA940;
+}
+.listasVerdes ul li a{
+    color:lightgreen;
+}
+.listasVerdes ul li{
+    list-style-type:none;
+    margin-left:-30px;
+}
+.sobreSection2 a{
+    color:greenyellow;
+}
+.sobreSection3 a{
+    color:greenyellow;
+}
+footer p a{
+    color:white;
+}
+.textos a{
+    color:lightgreen;
+}
+article h2{
+    font-size:30px;
+    color:darkgray;
+}
+article h3{
+    font-size:22px;
+    color:darkgray;
+    
+}
+aside h3,h4{
+    font-size:22px;
+    color:darkgray;
+}

@@ -1,0 +1,164 @@
+body{
+    background-color:darkgrey;
+}
+/**************************************************HEADER***************************************************/
+header{
+    background-color:#2BA3CF;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+header div h1{
+    color:white;
+    font-size:50px;
+}
+header div h5{
+    color:white;
+    font-size:15px;
+}
+#linksCantoSuperior{
+    text-align: right;
+    color:white;
+    font-size:12px
+}
+#linksCantoSuperior a{
+    color: white;
+    text-decoration:none;
+
+}
+header div ul{
+    float: right;
+}
+header div ul a{
+    color:white;
+    text-decoration:none;
+    font-weight: bold;
+    font-size:17px;
+}
+.linkHeaderVerde{
+    color: greenyellow;
+}
+header ul a:hover{
+    color:orangered;
+}
+#linksCantoSuperior a:hover{
+    color:orangered;
+}
+/************************************************************************************************************/
+/***********************************************MAIN*********************************************************/
+main{
+    border: 3px solid #2BA3CF;
+}
+table tr th{
+    background-color:yellowgreen;
+    color:white;
+}
+.coluna1{
+    text-align: center;
+}
+aside ul{
+    list-style-type:none;
+}
+aside ul li a{
+    color:dimgray;
+    text-decoration:none;
+    
+}
+aside ul li a:hover{
+    color:black;
+    text-decoration:none;
+   
+}
+article{
+    background-color:white;
+}
+aside{
+    background-color:beige;
+}
+aside h3{
+    color:yellowgreen;
+}
+aside ul h5{
+    color:darkblue;
+}
+aside p{
+    font-size: 15px;
+}
+.cinzaEscuro{
+    background-color:darkgray;
+}
+.cinzaClaro{
+    background-color: gainsboro;
+}
+article tr[not th:fist-child]{
+    text-align: justify;
+}
+.coluna2e3{
+    font-size:20px;
+    color:dodgerblue;
+    padding-left: 5px;
+}
+.alinharEsq{
+    text-align: left;
+    padding-left:5px;
+}
+#submeter{
+    color:white;
+    font-weight: bold;
+    background-color:yellowgreen;
+}
+#butonBusca{
+    background-color:yellowgreen;
+    color:white;
+    font-weight:bold;
+}
+.tituloLadoQuadradoVerde1{
+    color: yellowgreen;
+}
+.tituloLadoQuadradoVerde2{
+    color: yellowgreen;
+}
+#borderCode{
+    border:1px solid #E6E6E6;
+    background-color:#FAFAFA;
+}
+#borderAspas{
+    border:1px solid #E6E6E6;
+    background-color:#FAFAFA;
+}
+#borderFormulario{
+    border:1px solid #E6E6E6;
+    background-color:#FAFAFA;
+}
+.redesSociais{
+    border:1px solid #E6E6E6;
+    background-color:#FAFAFA;
+}
+#referencia{
+    text-align:right;
+}
+#borda{
+    border:1px solid #E6E6E6;
+}
+/************************************************************************************************************/
+/***********************************************FOOTER*******************************************************/
+footer{
+    background-color:#2BA3CF;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius: 25px;
+}
+footer p:first-child{
+    text-align: right;
+}
+footer p{
+  color:white;
+}
+footer p a{
+    color:white;
+    text-decoration:none;
+}
+footer p a:hover{
+    color:red;
+    text-decoration:none;
+}
+
+/************************************************************************************************************/

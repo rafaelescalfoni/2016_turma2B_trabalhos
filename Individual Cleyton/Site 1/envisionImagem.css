@@ -1,0 +1,25 @@
+/**************************************************HEADER***************************************************/
+/************************************************************************************************************/
+/***********************************************MAIN*********************************************************/
+#imgFireFox{
+    background-image: url(envision/images/firefox-gray.jpg);
+    background-repeat: no-repeat;
+}
+#aspas{
+    background-image:url(envision/images/quote.gif);
+}
+.quadradoVerde{
+    background-image:url(envision/images/square-green.png);
+}
+#read{
+    background-image: url(envision/images/page.gif);
+}
+#caixaTexto{
+    background-image: url(envision/images/comment.gif);
+}
+#date{
+    background-image: url(envision/images/clock.gif);
+}
+/************************************************************************************************************/
+/***********************************************FOOTER*******************************************************/
+/************************************************************************************************************/
