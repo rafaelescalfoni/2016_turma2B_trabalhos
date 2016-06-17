@@ -1,0 +1,24 @@
+header{
+  background-image: url(images/img01.gif);
+
+}
+
+#logo{
+
+  background-image: url(images/img02.gif);
+
+
+}
+.img04{
+  background-image: url(images/img03.jpg);
+}
+
+.img03{
+  background-image: url(images/img04.jpg);
+}
+.imagens{
+    background-image: url("images/img03.jpg");
+}
+footer {
+  background-image: url("images/img05.gif");
+}

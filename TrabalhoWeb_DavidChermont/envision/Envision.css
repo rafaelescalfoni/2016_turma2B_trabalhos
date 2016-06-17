@@ -1,0 +1,508 @@
+/**************************************************Author:David Chermont***************************************************/
+body{
+	max-width: 950px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.menu{
+	float: left;
+}
+
+.clear_format{
+	clear: left;
+}
+
+.no_margin{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+
+.table_color{
+	background-color: #F2F2F2;
+
+}
+
+.table_color2{
+	background-color: #FBFBFB;
+
+}
+
+.titulo6{
+	margin: 0px;
+	padding-bottom:7px;
+	padding-top:7px;
+}
+
+.aside_title{
+	font-size: 20px;
+	color: #819538;
+
+}
+
+.quadrado{
+	position: relative;
+	top:1px;
+	right: 7px;
+
+}
+
+.imagens{
+	position: relative;
+	top:2px;
+	right: 5px;
+
+}
+
+.botao{
+	background-color: #B3E152;
+	color: white;
+
+}
+
+.aside_list{
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+.borda_menu{
+	border-right: 2px solid white;
+
+}
+
+.border_list{
+	border-bottom: 1px dotted #819538;
+	padding-bottom:3px;
+	padding-top:3px;
+}
+
+.first_border_list{
+	margin-top:-15px;
+	border-bottom: 1px dotted #819538;
+	padding-bottom:3px;
+	padding-top:3px;
+}
+
+.border_list_title{
+	padding-bottom: 13px;
+	border-bottom: 1px dotted #819538;
+	font-size: 20px;
+	color: #819538;
+	margin-bottom: 0px;
+}
+
+.aside_text{
+	color:#809339;
+}
+
+#background_div{
+	background-color: #278CCB;
+	border-radius: 25px;
+}
+
+#titulo{
+	position: relative;
+	color: white;
+	font-size: 55px;
+	margin-bottom: 0px;
+	top: 7px;
+	left: 29px;
+	margin-top: 0px;
+}
+
+#sub_titulo{
+	position: relative;
+	color: white;
+	margin-top: 0px;
+	left: 38px;
+}
+
+#logo{
+	float: left;
+	font-weight: bold;
+}
+
+#menu1 li{
+	list-style-type: none;
+	display: inline;
+	position: relative;
+	top:7px;
+	left: 557px;
+	padding-right:5px;
+}
+
+#menu1{
+	font-size: 14px;
+
+}
+
+#menu2 li{
+	list-style-type: none;
+	display: inline;
+	margin-right: 20px;
+}
+
+#menu2{
+	clear: left;
+	position: relative;
+	left: 446px;
+	top: 7px;
+	font-weight: bold;
+}
+
+#container_interno{
+	max-width: 658px;
+	margin-top:35px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 35px;
+}
+
+#menu3 li{
+	display: inline;
+	margin-left: 15px;
+	position: relative;
+	left: 257px;
+}
+
+#titulo2{
+	margin-bottom: 33px;
+}
+
+#titulo3{
+	margin-top: 33px;
+}
+
+#quotes{
+	float: left;
+}
+
+#firefox_img{
+	float: left;
+	margin-right: 10px;
+	background-color: #FDFDFD;
+	border: 1px solid #FAFAFA;
+	padding: 7px;
+}
+
+#titulo4{
+	margin-top: 30px;
+	margin-bottom: 33px;
+
+}
+
+#titulo5{
+	margin-bottom: 0px;
+	padding-bottom:7px;
+}
+
+#botao2{
+	padding-bottom:9px;
+
+}
+
+#menu3{
+	background-color: #FDFDFD;
+	border: 1px solid #FAFAFA;
+	height: 30px;
+
+}
+
+#shadow{
+	background-color: #FDFDFD;
+	border: 1px solid #FAFAFA;
+
+}
+
+#shadow p:first-child{
+	padding-top: 10px;
+}
+
+#shadow p:last-child{
+	padding-bottom: 10px;
+}
+
+#shadow2{
+	background-color: #FDFDFD;
+	border: 1px solid #FAFAFA;
+	padding-top: 10px;
+}
+
+#paragraph_quotes{
+	margin-top: 3px;
+
+}
+
+#container_interno2{
+	max-width: 210px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#aside_list2 p{
+	margin: 0px;
+}
+
+#aside_list2{
+	list-style-type: none;
+	padding-left: 0px;
+
+}
+
+#autor{
+	float: right;
+	color: #809339;
+}
+
+#aside_title2{
+	clear: right;
+	font-size: 20px;
+	color: #819538;
+}
+
+#campo_pesquisa{
+	float:left;
+	padding-right:3px;
+
+}
+
+#shadow3{
+	background-color: #FDFDFD;
+	border: 1px solid #FAFAFA;
+	padding-left: 15px;
+}
+
+#shadow3 h5{
+	margin-top: 15px;
+
+}
+
+#aside_list2 p{
+	color: #809339;
+
+}
+
+#bullet_list{
+	list-style-type:none;
+	padding-left:25px;
+}
+
+#bullet_list li:before{
+	content: url("images/bullet.gif");
+	padding-right:8px;
+}
+aside section:last-child a:link{
+	color: #4491C8;
+}
+
+aside section:last-child a:visited{
+	color: #4491C8;
+}
+
+aside section:last-child a:hover{
+	color: #4491C8;
+}
+
+aside section:last-child a:active{
+	color: #4491C8;
+}
+
+aside li a:link{
+	color:black;
+
+}
+
+aside li a:visited{
+	color:black;
+
+}
+
+aside li a:hover{
+	color:black;
+
+}
+
+aside li a:active{
+	color:black;
+
+}
+
+aside{
+	float: left;
+	width:238px;
+	background-color: #F1FDCF;
+	height: 1604.83px;
+}
+
+h3{
+	color: #93B439;
+
+}
+
+td,th{
+	padding: 7px;
+
+}
+
+
+th{
+	background-color: #93BE3A;
+	color: white;
+	text-align: left;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+footer{
+	clear: left;
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+footer ul{
+	list-style-type: none;
+	display: inline;
+
+}
+
+footer ul li{
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+footer a:link{
+	color: white;
+
+}
+
+footer a:visited{
+	color: white;
+
+}
+
+footer a:hover{
+	color: white;
+
+}
+
+footer a:active{
+	color: white;
+
+}
+
+header ul a:link{
+	color: white;
+
+}
+
+header ul a:visited{
+	color: white;
+
+}
+
+header ul a:hover{
+	color: #C5E89F;
+
+}
+
+header ul a:active{
+	color: #C5E89F;
+
+}
+
+main{
+	width: 700px;
+	background-color: white;
+	margin-left: 6px;
+	float: left;
+}
+
+main h3 a:link{
+	color: #819538;
+}
+
+main h3 a:visited{
+	color: #819538;
+}
+
+main h3 a:hover{
+	color: #819538;
+}
+
+main h3 a:active{
+	color: #819538;
+}
+
+main p a:link{
+	color: #4491C8;
+
+}
+
+main p a:visited{
+	color: #4491C8;
+
+}
+
+main p a:hover{
+	color: #4491C8;
+
+}
+
+main li a:active{
+	color: #4491C8;
+
+}
+
+main li a:link{
+	color: #4491C8;
+
+}
+
+main li a:visited{
+	color: #4491C8;
+
+}
+
+main li a:hover{
+	color: #4491C8;
+
+}
+
+main li a:active{
+	color: #4491C8;
+
+}
+
+table{
+	width:620px;
+
+}
+
+table tr td:first-child{
+	text-align:center;
+}
+
+table a:link{
+	color: #4491C8;
+}
+
+table a:hover{
+	color: #4491C8;
+}
+
+table a:active{
+	color: #4491C8;
+
+}
+
+table a:visited{
+	color: #4491C8;
+
+}
