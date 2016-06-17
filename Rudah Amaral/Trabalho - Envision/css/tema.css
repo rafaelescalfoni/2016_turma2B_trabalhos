@@ -1,0 +1,147 @@
+body {
+    background-color: #cecece;
+}
+
+header {
+    color: white;
+}
+
+header nav p a:link {
+    color: white;
+}
+
+header nav p a:hover {
+    color: #d5dba1;
+}
+
+header div ul li a:link {
+    color: white;
+}
+
+header div ul li a:hover {
+    color: #d5dba1;
+}
+
+section {
+    background-color: #ffffff;
+}
+
+section code p {
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+}
+
+section blockquote p {
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+}
+
+section > p > img {
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+}
+
+section table tr th {
+    background-color: #97af38;
+}
+
+section table tr:nth-child(even){
+    background-color: #fbfbfb;
+}
+
+section table tr:nth-child(odd){
+    background-color: #f2f2f2;
+}
+
+section h3 {
+    color: #8ba135;
+}
+
+section p > a:link {
+    color: #61acda;
+}
+
+section p > a:hover {
+    color: #0095c4;
+}
+
+aside h3 {
+    color: #8ba135;
+}
+
+aside a {
+    text-decoration: none;
+    color: #89908a;
+}
+
+aside nav p {
+    border-top: 1px dotted #8ea534;
+    padding: 3px 0px;
+}
+
+aside nav p:last-child {
+    border-bottom: 1px dotted #8ea534;
+}
+
+aside a:hover {
+    color: #0095c4;
+}
+
+aside > p a {
+    color: #61acda;
+}
+
+.button {
+    background-color: #8ea534;
+    color: white;
+}
+
+.status a {
+    color: #61acda;
+}
+
+.status a:hover {
+    color: #0095c4;
+}
+
+.meioAMeio {
+    background-color: #f4f5cf;
+}
+
+.meioAMeio section ul {
+    list-style-image: url(../images/bullet.gif);
+}
+
+.container {
+    background: linear-gradient(#009fce, #0091c6);
+}
+
+.status {
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+}
+
+.linkAzul:link {
+    color: #61acda;
+    text-decoration: none;
+}
+
+.linkAzul:hover {
+    color: #0095c4;
+    text-decoration: none;
+}
+
+#menu {
+    border-top: 2px solid #008bc1;
+    border-bottom: 2px solid #008bc1;
+    display: table;
+    width: 100%;
+}
+
+#rodapeTop {
+    color: white;
+}
+
+#rodapeTop a {
+    font-weight: bold;
+}

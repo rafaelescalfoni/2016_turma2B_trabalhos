@@ -1,0 +1,64 @@
+* {
+    font-family: Trebuchet MS;
+}
+
+header div h1 {
+    font-size: 40px;
+}
+
+header div a {
+    font-weight: bold;
+}
+
+header nav p {
+    font-size: 0.8em;
+}
+
+header nav p a {
+    text-decoration: none;
+    padding: 0px 10px 0px 9px;
+    border-right: 1px solid white;
+}
+
+header nav a:last-child {
+    border-right: none;
+}
+
+header div ul li a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section p > a {
+    text-decoration: none;
+}
+
+section h4 {
+    font-size: 1.1em;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 0px 5px 0px 4px;
+    border-right: 1px solid white;
+}
+
+footer a:last-child {
+    border-right: none;
+}
+
+.button {
+    font-weight: bold;
+}
+
+.meioAMeio {
+    font-size: 0.8em;
+}
+
+.aDireita {
+    text-align: right;
+}
+
+.negrito {
+    font-weight: bold;
+}
