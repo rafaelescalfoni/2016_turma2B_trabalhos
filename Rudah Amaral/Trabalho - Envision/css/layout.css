@@ -1,0 +1,153 @@
+body {
+    margin: 0px;
+}
+
+header nav {
+    position: relative;
+    float: right;
+    width: 50%;
+    text-align: right;
+}
+
+header div ul li {
+    display: inline;
+    padding: 0px 10px;
+}
+
+header div ul {
+    padding: 0px;
+    float: right;
+    margin: 0px;
+}
+
+section {
+    padding: 0 20px;
+    width: 67%;
+    float: left;
+}
+
+section code p {
+    padding: 15px;
+}
+
+section blockquote p {
+    padding: 15px;
+}
+
+section blockquote p img {
+    margin-right: 5px;
+}
+
+section blockquote {
+    margin: 0;
+}
+
+section > p > img {
+    padding: 10px;
+}
+
+section table {
+    width: 100%;
+}
+
+section table tr th {
+    text-align: left;
+    padding: 5px;
+}
+
+section table tr td {
+    padding: 5px;
+}
+
+aside {
+    width: 25.5%;
+    float: left;
+    padding: 10px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+section h3 > img {
+    margin-right: 10px;
+}
+
+section div a > img {
+    margin: 0 10px;
+}
+
+section p form {
+    display: block;
+}
+
+aside form h3 {
+    margin: 5px;
+}
+
+aside p {
+    margin: 5px 0px;
+}
+
+.meioAMeio {
+    position: inherit;
+    display: table;
+}
+
+.container {
+    width: 900px;
+    margin: 10px auto;
+    border-radius: 10px;
+    padding: 0 10px;
+    display: table;
+}
+
+.status {
+    padding: 5px;
+}
+
+#logo h1 + a{
+    float: left;
+}
+
+#logo h1 {
+    margin-bottom: 0px;
+}
+
+#logo {
+    position: relative;
+    float: left;
+    bottom: 20px;
+    width: 50%;
+}
+
+#menu {
+    padding: 10px 0px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+#LoremIpsum {
+    margin-right: 10px;
+}
+
+#cabecalhoTop {
+    display: table;
+    position: relative;
+    width: 100%;
+}
+
+#rodapeTop {
+    width: 85%;
+    display: table;
+    margin: 0px auto;
+}
+
+#rodapeTop nav:first-child {
+    float: left;
+}
+
+#rodapeTop nav:last-child {
+    float: right;
+}
