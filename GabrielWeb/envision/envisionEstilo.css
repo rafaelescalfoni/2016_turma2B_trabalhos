@@ -1,0 +1,400 @@
+p{
+  font-family: arial;
+}
+body{
+    margin: 0px;
+
+}
+#container{
+    width: 780px;
+    background-color: #0099cc;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    border: 0px solid #0099cc;
+    border-radius: 25px;
+}
+a h3{
+    color: #98ad72;
+}
+header{
+    background-color: #0099cc;
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    border: 0px solid #0099cc;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+header h1{
+    margin: 0px;
+    display: inline;
+    float: left;
+    color: white;
+    font-size: 50px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-left: 30px;
+}
+header p{
+   display: inline;
+    float: left;
+    clear: left;
+    margin: 0px;
+    color: white;
+    padding-right: 10px;
+    padding-left: 39px;
+
+}
+#navAux{
+    float: right;
+    position: relative;
+    top: -55px;
+    padding-right: 20px;
+
+}
+#navAux ul{
+    margin: 0px;
+}
+#navAux ul li{
+    display: inline;
+    color: white;
+    font-size: 10px;
+}
+header a:link {
+     font-size: 10px;
+     font-family: Arial;
+    text-decoration: none;
+    color: white;
+}
+
+ header a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+ header a:hover {
+    text-decoration: none;
+    color: #98ad72
+}
+
+
+
+
+
+
+#mainNav{
+    width: 780px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:  #0099cc;
+    display: table
+}
+#linhaSepara{
+    width: 780px;
+    height: 19px;
+    display: table;
+    background-color:  #0099cc;
+    border-top: 3px solid #009cd1;
+    border-bottom: 3px solid #009cd1;
+}
+#mainNav ul{
+    margin: 0px;
+    float: right;
+}
+#mainNav ul li{
+    display: inline;
+    margin:10px;
+}
+#mainNav a:link {
+     font-size: 14px;
+     font-family: Tahoma;
+     font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+ #mainNav a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+ #mainNav a:hover {
+    text-decoration: none;
+    color: #98ad72
+}
+
+
+
+
+
+
+main{
+    width: 595px;
+    float: left;
+    background-color: white;
+    border-left: 5px solid #0099cc;
+    border-right: 1px solid white;
+
+}
+main a{
+    text-decoration: none;
+}
+
+#templateInfo h3{
+    float: left;
+    margin:0px;
+}
+#templateInfo img{
+    float: left;
+}
+#templateInfo p{
+    clear: left;
+}
+#templateInfo a {
+  color: #0099cc;
+}
+.contentInDiv {
+    padding: 15px;
+}
+#images{
+    background-color: #fafafa;
+    height: 17px;
+}
+#images img{
+    float: right;
+}
+#images a{
+    float: right;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+#images p{
+    display: inline;
+    float: right;
+    margin: 0px;
+    margin-left: 4px;
+}
+#images a:link {
+    text-decoration: none;
+    color: #0099cc;
+}
+
+ #images a:visited {
+    text-decoration: none;
+    color: #0099cc;
+}
+
+ #images a:hover {
+    text-decoration: none;
+    color: #98ad72
+}
+#code{
+    background-color: #fafafa;
+}
+#code p{
+    width: 100px;
+    padding-left: 25px;
+}
+#sampleTags h4 {
+    margin: 0px;
+}
+#exampleLists{
+    background-color: #fafafa;
+}
+#exampleLists ul{
+    list-style-image: url("images/bullet.gif");:
+}
+#blockquote p{
+    width: 450px;
+    float: left;
+}
+#blockquote img {
+    float: left;
+}
+#blockquote {
+    background-color: #fafafa;
+    display: table;
+    width: 570px;
+}
+#imageAndText img{
+    float: left;
+    border: 5px solid lightgrey;
+    margin-top: 16px;
+    margin-right: 5px;
+}
+#imageAndText p{
+    width: 450px;
+    float: left;
+}
+table{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+table tr td {
+    border-spacing: 2px;
+    color: #0099cc;
+}
+table tr th{
+    color: white;
+    background-color: #97af38;
+}
+th:nth-child(1){
+  width: 100px;
+}
+th:nth-child(2){
+  width: 150px;
+}
+th:nth-child(3){
+  width: 275px;
+}
+tr:nth-child(2) td{
+  background-color: #fafafa;
+}
+tr:nth-child(3) td{
+  background-color: #f2f2f2;
+}
+tr:nth-child(4) td{
+  background-color: #fafafa;
+}
+tr:nth-child(5) td{
+  background-color: #f2f2f2;
+}
+
+ #exampleForm form{
+    display: table;
+    background-color: #fafafa;
+    width: 570px;
+}
+#exampleForm label {
+    float: left;
+    clear: left;
+}
+#exampleForm #name{
+    float: left;
+    clear: left;
+    color: lightgrey;
+}
+#exampleForm #email{
+    float: left;
+    clear: left;
+}
+ #exampleForm #comments{
+    height: 75px;
+    width: 400px;
+    float: left;
+    clear: left;
+}
+ #exampleForm #enviar{
+    margin-top: 20px;
+    float: left;
+    clear: left;
+}
+
+
+
+
+
+
+
+
+aside{
+    float: right;
+    background-color: #f4f5cf;
+    height: 1296px;
+    border-right: 5px solid #0099cc;
+}
+#asideSpacing {
+    padding: 7px;
+    width: 160px;
+}
+aside h4{
+    color: #83924c;
+}
+form #name {
+    width: 90px;
+}
+form #enviar {
+    background-color: #b8d050;
+    color: white;
+}
+aside ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+aside ul li a:hover {
+    text-decoration: none;
+    color: #98ad72
+}
+aside ul   {
+   padding-left: 0px;
+}
+aside ul li  {
+    list-style-type: none;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border-top: 1px dotted #7f9078;
+    //border-bottom: 2px dotted #7f9078;
+}
+aside h6 {
+    font-size: 14px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+aside p{
+    color: #98a586;
+    font-size: 11px;
+}
+#separa{
+  display: table;
+  width: 160px;
+  border-top: 1px dotted #7f9078;
+}
+
+
+
+
+footer{
+    clear: left;
+    float: left;
+    width: 780px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer ul li {
+    display: inline;
+    float: left;
+    color: white;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 12px;
+}
+footer ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+footer ul {
+    float: right;
+    margin: 0px;
+}
+
+footer p {
+    display: inline;
+    float: left;
+    margin: 0px;
+    color: white;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 12px;
+}
+#containerFooter{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
