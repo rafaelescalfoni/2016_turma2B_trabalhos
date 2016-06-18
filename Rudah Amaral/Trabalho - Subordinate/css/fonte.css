@@ -1,0 +1,45 @@
+body {
+	font-family: Trebuchet MS;
+}
+
+header nav ul li a:last-child {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+header nav ul li a:first-child {
+	margin-right: 5px;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+aside, footer, article {
+	font-size: 0.8em;
+}
+
+article p {
+	text-align: justify;
+}
+
+article section h1 {
+	font-size: 2em;
+}
+
+article section h2 {
+	font-size: 1.8em;
+}
+
+#logo {
+	margin-top: 6px;
+}
+
+#logo h1 {
+	color: white;
+	font-size: 1.7em;
+}
+
+#logo p {
+	color: #7eb74e;
+	font-size: 0.9em;
+}

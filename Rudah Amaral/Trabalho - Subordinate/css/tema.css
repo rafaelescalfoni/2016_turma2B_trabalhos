@@ -1,0 +1,56 @@
+header a:link {
+    color: white;
+}
+
+header a:visited {
+    color: white;
+}
+
+header a:active {
+	color: #888888;
+}
+
+header nav ul li a:first-child {
+	color: #c8e891;
+}
+
+aside, article, footer {
+	color: #747577;
+}
+
+aside p > a[href] {
+	color: #89b73d;
+}
+
+aside a[href]:active {
+    color: #888888;
+}
+
+article a[href] {
+	color: #89b73d;
+}
+
+article a[href]:active {
+    color: #888888;
+}
+
+footer {
+    color: white;
+}
+
+footer a:visited {
+    color: white;
+}
+
+footer a:active {
+    color: #89b73d;
+}
+
+.button {
+	font-weight: bold;
+	color: #747577;
+}
+
+.comments {
+    padding: 10px;
+}
