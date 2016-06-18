@@ -1,0 +1,45 @@
+.container{
+  background-color: rgb(43, 137, 198);
+ box-shadow:  #000 1px 1px 3px;
+}
+body{
+  background-color: rgb(203, 203, 203);
+}
+a{
+  text-decoration: none;
+}
+.header, .menu{
+  border-bottom: 3px solid rgb(50, 142, 208);
+}
+aside{
+  background-color: rgb(237, 253, 206);
+}
+main{
+  background-color: white;
+}
+dd{
+  background-image: url("../images/dots.jpg");
+  background-repeat: repeat-x;
+}
+dl:last-child{
+  background-image: url("../images/dots.jpg");
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
+article h1{
+  background-image: url("../images/square-green.png");
+  background-position: left;
+  background-repeat: no-repeat;
+}
+.fundo-diferencial{
+  background-color: #FAFAFA;
+  border: 1px solid #f2f2f2;
+}
+#segunda-lista li{
+  list-style-image: url("../images/bullet.gif");
+}
+blockquote{
+  background-image: url("../images/quote.gif");
+  background-position: left;
+  background-repeat: no-repeat;
+}

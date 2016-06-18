@@ -1,0 +1,38 @@
+header{
+  background-image: url("../images/img01.gif");
+  background-repeat: repeat;
+}
+.titulo{
+  background-image: url("../images/img02.gif");
+}
+label{
+  border-top: url("../images/img04.jpg")
+}
+.lista li, article li{
+  list-style: none;
+}
+.busca, .menu{
+  background-image: url("../images/img03.jpg");
+  background-repeat: repeat;
+  height: 70px;
+}
+input[type="submit"]{
+  border: none;
+}
+label{
+  border: 10px transparent;
+  border-image: url("../images/img04.jpg");
+  background-repeat: repeat-x;
+}
+input{
+  margin: 0 auto;
+}
+article .principal-img{
+  border: 1px dashed #86E714 ;
+}
+footer{
+	background-image: url("../images/img05.gif");
+}
+footer h5{
+	color: white;
+}

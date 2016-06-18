@@ -1,0 +1,123 @@
+body, header ol, .titulo h1, .titulo p{
+  margin: 0;
+}
+header ol li{
+  display: inline;
+  padding-left: 30px;
+  margin-top: 10px;
+}
+header{
+  height: 52px;
+}
+.container{
+  display: table;
+}
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+aside{
+  float: left;
+}
+header ol{
+  float: right;
+  margin: 0;
+  padding-top: 10px;
+}
+.titulo h1, .titulo p{
+  float: right;
+  position: relative;
+  right: 30px;
+}
+ article:first-of-type{
+  margin-top: 88px;
+}
+input[type="text"]{
+  margin-top: 20px;
+}
+fieldset{
+  margin: 0 auto;
+  border: none;
+  padding: 0;
+  text-align: center;
+}
+label{
+  width: 212px;
+}
+.busca{
+  margin-top: 15px;
+}
+input[type="text"]{
+  width: 100px;
+}
+.titulo{
+  position: relative;
+  top: -5px;
+  width: 280px;
+  height: 73px;
+}
+.container article{
+  width: 68%;
+}
+article{
+  float: right;
+}
+article .principal-img{
+  float: left;
+  margin: 0 10px 10px 0px;
+  padding: 2px;
+}
+article ul, article p{
+  margin:0;
+}
+.lista ul{
+  padding: 0 10px;
+}
+.menu{
+  display: table;
+  width: 100%;
+}
+.menu p, .menu li{
+  padding-top: 40px;
+}
+.menu p{
+  float:left;
+}
+.menu li{
+  display: inline-block;
+  padding-left: 20px;
+}
+.menu ul{
+  float: right;
+}
+article{
+	margin-bottom: 50px;
+}
+footer{
+	height: 52px;
+	text-align:center;
+  clear: both;
+}
+footer h5{
+	position: relative;
+	top: 40%;
+	margin:0;
+}
+.busca label{
+  width: 100%;
+  display: inline-table;
+}
+.lista{
+  background-image: url("../images/img03.jpg");
+  background-position: bottom;
+  background-repeat: repeat-x;
+  margin: 40px 0;
+}
+.lista ul{
+  padding-bottom: 40px;
+}
+label, article h1, .lista h1{
+  background-image: url("../images/img04.jpg");
+  background-position: bottom;
+  background-repeat: repeat-x;
+}

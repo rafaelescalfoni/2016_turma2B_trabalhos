@@ -1,0 +1,116 @@
+header li{
+  display: inline;
+}
+.menu li{
+  padding-left: 10px;
+}
+header ul{
+  float: right;
+}
+header p{
+  position: relative;
+  top: -15px;
+  padding-left: 10px;
+}
+header h1, header p, body{
+  margin: 0;
+}
+header{
+  margin-top: 20px;
+}
+.title{
+  float: left;
+}
+header h1{
+  padding-top: 20px;
+}
+aside{
+  padding: 20px 10px 10px 10px;
+  float: right;
+}
+.menu ul{
+  margin: 5px;
+}
+.menu{
+  margin-bottom: 30px;
+}
+.borda{
+  border-top: 1px rgb(21,106,171) solid;
+  border-bottom: 1px solid rgb(79,162,228);
+  margin: 0 -20px
+}
+.container{
+  border-radius: 20px;
+  padding: 0 20px 20px 20px;
+  width: 820px;
+  margin: 0 auto;
+  display: table;
+}
+dd{
+  padding: 5px;
+  margin: 0;
+}
+aside{
+  margin-top: 5px;
+  float: right;
+}
+header, .header{
+  display: table;
+  width: 100%;
+}
+input{
+  border:none;
+  height: 20px;
+}
+main{
+  float: left;
+}
+main, aside{
+  margin-left: 0 -15px;
+}
+aside{
+  width: 228px;
+}
+.container main{
+  width: 572px;
+  margin-top: 5px;
+}
+article p, article .pe, article h4, article .fundo-diferencial, article ol, #segunda-lista{
+  padding: 0 35px;
+}
+article p, article .pe, article h4, article .fundo-diferencial{
+  margin: 20px 15px;
+}
+article ol, #segunda-lista{
+  margin: 10px 15px;
+}
+label{
+  display: table;
+}
+article ul{
+  margin: 0;
+}
+article ul li{
+  text-align: right;
+  display: inline;
+  padding-left: 10px;
+}
+.pe{
+  display: table;
+}
+article h1{
+  margin: 20px 25px ;
+  padding-left: 30px;
+}
+.fundo-diferencial{
+  text-align: left;
+}
+#segunda-lista li{
+  text-align: left;
+  display: list-item;
+  padding-left: 0;
+}
+blockquote{
+  padding: 0 35px;
+  margin: 0;
+}

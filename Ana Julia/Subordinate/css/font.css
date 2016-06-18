@@ -1,0 +1,44 @@
+body, .menu p{
+  font-family: Trebuchet MS;
+  color: rgb(126, 133, 156);
+}
+header a{
+  text-decoration: none;
+  color: white;
+}
+.titulo h1{
+  font-size: 30px;
+  color: white;
+  text-transform: lowercase;
+}
+h1, label{
+  font-weight: bold;
+}
+.titulo p{
+  color: rgb(148, 187, 89);
+  font-size: 13px;
+  font-style: italic;
+}
+.lista a{
+  text-transform: lowercase;
+}
+a{
+  color: rgb(136, 205, 90);
+}
+article p, article a{
+  font-size: 11px;
+}
+article p{
+  line-height: 26px;
+  color: #333;
+}
+footer h5 a{
+	color: white;
+}
+header li{
+  font-size: 16px;
+}
+header li span{
+  color: rgb(200,245,117);
+  font-size: 30px;
+}

@@ -1,0 +1,49 @@
+body{
+  font-family: Verdana;
+}
+header, header a{
+  color: white;
+}
+header p, .header li{
+  font-size: 12px;
+}
+.menu li{
+  font-size: 15px;
+  font-weight: bolder;
+}
+#first-li a{
+  color: #D4E59F;
+}
+aside dd a{
+}
+aside h3{
+  color: #728D26;
+}
+article p,aside dd a, article li a, article li, article span, blockquote{
+  font-size: 11px;
+}
+
+main h1{
+  font-size: 14px;
+  color: #88AC0B;
+  font-weight: bold;
+  border-bottom: solid 1px #EFF0F1;
+}
+article a{
+  color: #2180BC;
+}
+article p,aside dd a, article li, article h4, article span, blockquote{
+  color: #666;
+}
+article h4{
+  font-size: 13px;
+}
+header h1{
+  font-family: Trebuchet MS;
+  font-size: 54px;
+  font-weight: bold;
+}
+input[type="submit"]{
+  color: white;
+  background-color: #8EB50C ;
+}
